@@ -1,9 +1,3 @@
-All the following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain
+The music was created using [Suno AI](https://suno.com/) and then processed by me. Since the game is free, the music can be distributed within it for non-commercial use!
 
-* [alien] (https://thenounproject.com/term/alien/1820539) by Minh Do
-* [raygun] (https://thenounproject.com/term/raygun/11236/) by Dominik Grob
-* [vr] (https://thenounproject.com/term/vr/2334639) by Mahmure Alp
-* [Human cloning ] (https://thenounproject.com/term/human-cloning/1581556/) by Gan Khoon Lay 
-
-The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
-* [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
+A playlist with every music track from this mod is available [here](https://suno.com/playlist/06d53bf4-4c52-49bc-9305-f32801a93947) by Suno AI and Tempov
